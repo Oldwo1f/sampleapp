@@ -35,7 +35,6 @@ module.exports.routes = {
   '/': {
     view: 'homepage'
   },
-  '/toto': 'UserController.toto'
 
   /***************************************************************************
   *                                                                          *
